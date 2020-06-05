@@ -1,17 +1,17 @@
 {
-  "d3-basics": [25, 30, 45, 60, 20],
-  "d3-pie-chart": [
-    {
-      name: "apples",
-      value: 100
-    },
-    {
-      name: "bananas",
-      value: 300
-    },
-    {
-      name: "cherries",
-      value: 250
-    }
+	"d3-basics": [25, 30, 45, 60, 20],
+  "d3-pie-chart":[
+		{
+			"name": "apples",
+	    "value": 100
+		},
+		{
+			"name": "bananas",
+			"value": 300
+		},
+		{
+			"name": "cherries",
+			"value": 250
+		}
   ]
 }
